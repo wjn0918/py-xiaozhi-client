@@ -1,0 +1,18 @@
+{
+    "ota_url": "http://127.0.0.1:8003/xiaozhi/ota/",
+    "device_id": "44:BE:5A:40:1B:1F",
+    "client_id": "py_test_client",
+    "device_name": "Py测试设备",
+    "auto_connect": true,
+    "audio": {
+        "sample_rate": 16000,
+        "opus_bitrate": 16000
+    },
+    "live2d": {
+        "enabled": true,
+        "model_json": "live2d/model/bronya/model.json",
+        "background": "1.png",
+        "width": 800,
+        "height": 600
+    }
+}
